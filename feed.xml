@@ -1,1 +1,234 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://enggreen.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://enggreen.github.io/" rel="alternate" type="text/html" /><updated>2024-02-27T23:08:33+09:00</updated><id>https://enggreen.github.io/feed.xml</id><title type="html">개발일기</title><subtitle>Start from 0.</subtitle><entry><title type="html">게임 클라이언트 프로그래머에 대해.</title><link href="https://enggreen.github.io/GCP" rel="alternate" type="text/html" title="게임 클라이언트 프로그래머에 대해." /><published>2024-02-27T09:00:00+09:00</published><updated>2024-02-27T09:00:00+09:00</updated><id>https://enggreen.github.io/GCP</id><content type="html" xml:base="https://enggreen.github.io/GCP">&lt;p&gt;피치 못할 사정으로 인해 원래 하고있던 일을 할 수 없게 된지 한 달 가량 지났다.&lt;/p&gt;</content><author><name>EngGreen</name></author><category term="GCP" /><summary type="html">피치 못할 사정으로 인해 원래 하고있던 일을 할 수 없게 된지 한 달 가량 지났다.</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://enggreen.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://enggreen.github.io/" rel="alternate" type="text/html" /><updated>2024-02-28T22:54:29+09:00</updated><id>https://enggreen.github.io/feed.xml</id><title type="html">개발일기</title><subtitle>Start from 0.</subtitle><entry><title type="html">게임 클라이언트 프로그래머에 대해.</title><link href="https://enggreen.github.io/GCP" rel="alternate" type="text/html" title="게임 클라이언트 프로그래머에 대해." /><published>2024-02-27T09:00:00+09:00</published><updated>2024-02-27T09:00:00+09:00</updated><id>https://enggreen.github.io/GCP</id><content type="html" xml:base="https://enggreen.github.io/GCP">&lt;p&gt;피치 못할 사정으로 일을 그만두게 된지 한 달이 지났다.&lt;/p&gt;
+
+&lt;p&gt;한 달 동안 그간 못 갔던 여행도 다니고 못 본 영화도 보고 푹 쉰 뒤, 오랜 꿈이였던 프로그래밍 공부를 시작해보고자 했다.&lt;/p&gt;
+
+&lt;p&gt;관련 전공도 아니고 사전 지식도 없는 내가 당장 할 수 있는건, 인터넷 검색을 통한 자료 수집 뿐..&lt;/p&gt;
+
+&lt;p&gt;그렇게 하루 종일 웹서핑으로 시간을 보낸 뒤 얻게 된 몇 가지 정보가 있다.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;게임 프로그래머는 크게 &lt;strong&gt;서버 vs 클라이언트&lt;/strong&gt; 로 나뉜다.&lt;/li&gt;
+  &lt;li&gt;클라이언트는 다시 한번 &lt;strong&gt;유니티 vs 언리얼&lt;/strong&gt; 엔진 개발자로 나뉜다.
+    &lt;ul&gt;
+      &lt;li&gt;둘은 경쟁관계에 있는 엔진이 아니고, 유니티는 주로 최소 규모의 2D, 모바일게임에 주로 사용되며, 언리얼은 대규모 싱글, 콘솔게임에 사용된다.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;온라인 학습 사이트는 대표적으로 해외사이트는 &lt;a href=&quot;https://www.udemy.com/&quot;&gt;Udemy&lt;/a&gt;, 국내에서는 &lt;a href=&quot;https://www.inflearn.com/&quot;&gt;인프런&lt;/a&gt;이 있다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;정말 크게 적으면 이 정도이고&lt;/p&gt;
+
+&lt;p&gt;나같은 사람(&lt;strong&gt;&lt;em&gt;독학으로 게임 프로그래머 취업을 희망하는 사람&lt;/em&gt;&lt;/strong&gt;)이 어떻게 공부했는지, 독학해서 나온 포트폴리오는 어느 정도인지 등 찾아볼 정보의 양은 어마어마했다.&lt;/p&gt;
+
+&lt;p&gt;특히 막막했던 부분은, &lt;em&gt;“&lt;strong&gt;어디서부터&lt;/strong&gt;” 공부를 시작해야 할지, “&lt;strong&gt;무엇을&lt;/strong&gt;” 공부해야 게임 개발자로 취직할 수 있는지&lt;/em&gt; 라는 점이다.&lt;/p&gt;
+
+&lt;p&gt;결국, 막연히 그나마 이해할 수 있는 인프런을 들여다 보던 도중 한 강의가 눈에 띄었다.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h2 id=&quot;게임-프로그래머-취업-전략-가이드-by-rookiss&quot;&gt;&lt;a href=&quot;https://www.inflearn.com/course/%EA%B2%8C%EC%9E%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EC%B7%A8%EC%97%85#reviews&quot;&gt;게임 프로그래머 취업 전략 가이드 (by Rookiss)&lt;/a&gt;&lt;/h2&gt;
+  &lt;p&gt;게임 프로그래머 초봉 6000만원 시대! 무엇을 어떻게 공부할지 막막한 분들을 위해, 게임 업계 및 채용 절차에 대한 생생한 이야기를 준비했습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/EngGreen/enggreen.github.io/assets/159286056/31eab0d3-9917-4813-a700-abd6c3601f36&quot; alt=&quot;게임 프로그래머 취업 전략 가이드&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/EngGreen/enggreen.github.io/assets/159286056/cfeabdce-cd31-407c-bb15-7a0b952bae6f&quot; alt=&quot;스크린샷 2024-02-28 224412&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;제목부터 나를 위한 강의같아 보였고, 하루 종일 속 시원한 정보를 얻지못한 웹서핑에 지쳐있던 나는 바로 결제를 했다.&lt;/p&gt;
+
+&lt;p&gt;그렇게 홀린 듯이 저녁무렵 구매한 강의를 자정이 될 무렵까지 6시간가량에 걸쳐서 완강했다.&lt;/p&gt;
+
+&lt;p&gt;결론부터 말하자면 정말 내 상황에 딱 맞는, 나를 위한 강의였다.&lt;/p&gt;
+
+&lt;p&gt;무겁지도 않고, 전문적인 (배경지식이 필요한) 내용도 없으며, 이직 혹은 취업을 준비하는 사람들에게 필요한 내용만 담겨있다. 또한  경력이 풍부한 강사님의 적당한 사담은 지루할 틈 없이 하룻밤새 완강할 수 있게 만들어줬다.&lt;/p&gt;
+
+&lt;p&gt;강의를 듣고 정리한 핵심 내용은 다음과 같다.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;-게임-개발-직군-소개&quot;&gt;* 게임 개발 직군 소개&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;게임 개발 직군은 크게 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;테크, 아트, 디자인(기획), +QA&lt;/code&gt; 정도로 나눌 수 있으며, 모든 직군을 통틀어서 개발자라고 칭한다.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;모든 직군을 총괄하는 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;PD&lt;/code&gt;가 있으며, 각 직군별로 세세한 파트가 나뉜다.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;그 중 내가 희망하는 &lt;strong&gt;테크&lt;/strong&gt; 부분만 집중해보면 크게는 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;클라이언트, 서버 프로그래머&lt;/code&gt;로 나눌 수 있으며, 세부적으로 혹은 상황에 따라 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;툴스, 엔진, 플랫폼 프로그래머, 그리고 DBA&lt;/code&gt; 로 나눌 수 있다.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;아트팀과 디자인팀이 만든 부품을 조립하는 역할인 &lt;strong&gt;클라이언트 프로그래머&lt;/strong&gt; 는 개발 전체 팀 내 다양한 (거의 모든) 팀들과 협업이 필요하다.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;-게임-개발-프로세스&quot;&gt;* 게임 개발 프로세스&lt;/h5&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;핵심 재미 검증 [소규모 개발]
+    &lt;ul&gt;
+      &lt;li&gt;프로토타이핑 (10~20人)&lt;/li&gt;
+      &lt;li&gt;
+        &lt;h6 id=&quot;프로젝트-마일스톤-평가&quot;&gt;프로젝트 마일스톤 평가&lt;/h6&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;인력 모집
+    &lt;ul&gt;
+      &lt;li&gt;정식 프로젝트 승격(T.O 확보)&lt;/li&gt;
+      &lt;li&gt;
+        &lt;h3 id=&quot;신규채용-신규팀&quot;&gt;&lt;strong&gt;&lt;em&gt;신규채용 (신규팀)&lt;/em&gt;&lt;/strong&gt;&lt;/h3&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;컨텐츠 찍어내기
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;h6 id=&quot;프로젝트-마일스톤-평가-1&quot;&gt;프로젝트 마일스톤 평가&lt;/h6&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;게임 출시 &amp;amp; 라이브 전환
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;h3 id=&quot;신규채용-라이브팀&quot;&gt;&lt;strong&gt;&lt;em&gt;신규채용 (라이브팀)&lt;/em&gt;&lt;/strong&gt;&lt;/h3&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;보통 4번과 동시에 신규 개발을 담당했던 신규팀은 대거 이탈하고, 운영을 담당할 라이브 팀을 신규채용한다.&lt;/p&gt;
+
+&lt;h5 id=&quot;-채용에-관하여&quot;&gt;* 채용에 관하여&lt;/h5&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;회사가 최고로 우수한 인재를 뽑는 것이 아니다.
+&lt;strong&gt;팀장&lt;/strong&gt; 이 자신과 일할 사람을 뽑는 것이다.
+면접관들도 일반 팀원일 뿐이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&quot;-게임회사-채용-프로세스&quot;&gt;* 게임회사 채용 프로세스&lt;/h5&gt;
+
+&lt;h4 id=&quot;1-서류단계-짧고-굵은-임팩트-필요&quot;&gt;1. 서류단계 (짧고 굵은 임팩트 필요)&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;스펙
+    &lt;blockquote&gt;
+      &lt;p&gt;채용은 상대평가이다.&lt;/p&gt;
+
+      &lt;p&gt;아무리 내가 잘해도 나보다 더 뛰어난 사람이 지원하면, 그 사람이 붙는 너무나도 단순한 원리.&lt;/p&gt;
+
+      &lt;blockquote&gt;
+        &lt;p&gt;최대한의 준비를 한다는 마인드셋이 필요하다.&lt;/p&gt;
+      &lt;/blockquote&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;자소서&lt;/li&gt;
+  &lt;li&gt;포폴
+    &lt;ul&gt;
+      &lt;li&gt;지원자의 객관적인 실력과 근성을 확인할 수 있는 공정한 수단&lt;/li&gt;
+      &lt;li&gt;서류심사에서 &lt;strong&gt;매우 중요한 평가 요소&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;언리얼, 유니티등의 엔진이나 DirectX, OpenGL 등의 그래픽스로 돌아가는 게임
+        &lt;ul&gt;
+          &lt;li&gt;언리얼이나 유니티등의 상용엔진으로 만든 작업물이 당연히 퀄리티가 더 높아야 함.&lt;/li&gt;
+          &lt;li&gt;아트리소스는 구매 &amp;amp; 추출해도 무관&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;컨텐츠 양이나 게임 완성도보다 기술적인 어필이 필요함&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-기술면접-신입은-필기--과제--포트폴리오-위주&quot;&gt;2. 기술면접 (신입은 필기 / 과제 / 포트폴리오 위주)&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;면접이란 ‘같이 일하고 싶은 사람인가?’를 보는 것이다.&lt;/p&gt;
+
+  &lt;p&gt;실력/인성/지원동기/느낌 등 수없이 많은 부분을 본다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;과제 / 코딩시험 등&lt;/li&gt;
+  &lt;li&gt;필기 시험&lt;/li&gt;
+  &lt;li&gt;기술 면접&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;3-인사팀-면접&quot;&gt;3. 인사팀 면접&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;인성 면접&lt;/li&gt;
+  &lt;li&gt;처우 협의&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;-클라이언트-vs-서버&quot;&gt;* 클라이언트 vs 서버&lt;/h5&gt;
+
+&lt;h6 id=&quot;학습해야-할-내용&quot;&gt;학습해야 할 내용&lt;/h6&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;공통
+    &lt;ul&gt;
+      &lt;li&gt;C++/STL&lt;/li&gt;
+      &lt;li&gt;자료구조/알고리즘&lt;/li&gt;
+      &lt;li&gt;운영체제/멀티쓰레드&lt;/li&gt;
+      &lt;li&gt;네트워크&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;클라이언트
+    &lt;ul&gt;
+      &lt;li&gt;그래픽스 (DirectX, OpenGL)&lt;/li&gt;
+      &lt;li&gt;언리얼, 유니티&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;서버
+    &lt;ul&gt;
+      &lt;li&gt;Windows Socket&lt;/li&gt;
+      &lt;li&gt;데이터베이스&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;서버와 클라는 종이 한 장 차이다.&lt;/p&gt;
+
+  &lt;p&gt;이분법적인 사고가 아닌 두 분야 모두에 대한 지식이 필요하다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&quot;-목표-설정&quot;&gt;* 목표 설정&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;취업은 중간 과정이지, 최종 목표가 될 수 없다.&lt;/li&gt;
+  &lt;li&gt;스타트업으로 업계 입문은 비추천 !&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;-멘탈-관리&quot;&gt;* 멘탈 관리&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;내가 떨어졌다고 해도 정말 다양한 (상상도 못한) 이유가 있을 수 있다.&lt;/li&gt;
+  &lt;li&gt;BLOG HISTORY 남기기 → SPEC
+    &lt;ul&gt;
+      &lt;li&gt;사소한 부분의 사고 과정까지 !&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;-프로그래머-마인드&quot;&gt;* 프로그래머 마인드&lt;/h5&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;프로그래밍은 결국 문제 해결의 연속이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;문제가 발생하면 해결하려는 노력이 필요하다.&lt;/p&gt;
+
+&lt;p&gt;모르는 부분은 주구장창 구글링.&lt;/p&gt;
+
+&lt;h6 id=&quot;구글은-모든-프로그래머의-스승이다&quot;&gt;구글은 모든 프로그래머의 스승이다.&lt;/h6&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;정말 내가 궁금했던 내용, 도움이 되었던 내용들을 정리해보았다.&lt;/p&gt;
+
+&lt;p&gt;이외에도 강의는 총 16개의 수업 (5시간 24분 분량)으로 이루어져있으며 OT는 무료이므로 처음 게임 프로그래밍 직군에 관심이 있거나 이직을 준비하는 분들이라면 들어볼것을 추천한다.&lt;/p&gt;
+
+&lt;p&gt;현직을 경험하지 않은 사람들이 쉽게 알기 힘든 부분을 현직자의 입장에서 재밌고 간단하게 알 수 있다.&lt;/p&gt;</content><author><name>EngGreen</name></author><category term="GCP" /><summary type="html">피치 못할 사정으로 일을 그만두게 된지 한 달이 지났다.</summary></entry></feed>
