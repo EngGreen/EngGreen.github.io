@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="https://enggreen.github.io/tag/course/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://enggreen.github.io/" rel="alternate" type="text/html" />
-  <updated>2024-03-03T23:06:19+09:00</updated>
+  <updated>2024-03-03T23:50:01+09:00</updated>
   <id>https://enggreen.github.io/tag/course/feed.xml</id>
 
   
@@ -33,11 +33,19 @@
   
     <entry>
       <title type="html">『게임 프로그래머 입문 올인원』 1. 프로그래밍 개론 및 변수와 정수</title>
-      <link href="https://enggreen.github.io/course2" rel="alternate" type="text/html" title="『게임 프로그래머 입문 올인원』 1. 프로그래밍 개론 및 변수와 정수" />
+      <link href="https://enggreen.github.io/course1" rel="alternate" type="text/html" title="『게임 프로그래머 입문 올인원』 1. 프로그래밍 개론 및 변수와 정수" />
       <published>2024-03-02T10:00:00+09:00</published>
       <updated>2024-03-02T10:00:00+09:00</updated>
-      <id>https://enggreen.github.io/course2</id>
-      <content type="html" xml:base="https://enggreen.github.io/course2">&lt;h5 id=&quot;프로그래밍-개론&quot;&gt;프로그래밍 개론&lt;/h5&gt;
+      <id>https://enggreen.github.io/course1</id>
+      <content type="html" xml:base="https://enggreen.github.io/course1">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt; &lt;a href=&quot;https://www.inflearn.com/course/%EA%B2%8C%EC%9E%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EC%9E%85%EB%AC%B8-%EC%98%AC%EC%9D%B8%EC%9B%90-rookiss&quot;&gt;게임 프로그래머 입문 올인원&lt;/a&gt; by rookiss &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./course0&quot;&gt;0. OT 및 세팅&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./course1&quot;&gt;1. 프로그래밍 개론 및 변수와 정수&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;프로그래밍-개론&quot;&gt;프로그래밍 개론&lt;/h5&gt;
 
 &lt;h4 id=&quot;cpu-ram-ssd&quot;&gt;CPU, RAM, SSD&lt;/h4&gt;
 
@@ -260,7 +268,7 @@ int main()
       
 
       
-        <summary type="html">프로그래밍 개론</summary>
+        <summary type="html">게임 프로그래머 입문 올인원 by rookiss 0. OT 및 세팅 1. 프로그래밍 개론 및 변수와 정수</summary>
       
 
       
@@ -269,11 +277,19 @@ int main()
   
     <entry>
       <title type="html">『게임 프로그래머 입문 올인원』 0. OT 및 세팅</title>
-      <link href="https://enggreen.github.io/course1" rel="alternate" type="text/html" title="『게임 프로그래머 입문 올인원』 0. OT 및 세팅" />
+      <link href="https://enggreen.github.io/course0" rel="alternate" type="text/html" title="『게임 프로그래머 입문 올인원』 0. OT 및 세팅" />
       <published>2024-03-02T09:00:00+09:00</published>
       <updated>2024-03-02T09:00:00+09:00</updated>
-      <id>https://enggreen.github.io/course1</id>
-      <content type="html" xml:base="https://enggreen.github.io/course1">&lt;p&gt;※ 강의 정보&lt;/p&gt;
+      <id>https://enggreen.github.io/course0</id>
+      <content type="html" xml:base="https://enggreen.github.io/course0">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt; &lt;a href=&quot;https://www.inflearn.com/course/%EA%B2%8C%EC%9E%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EC%9E%85%EB%AC%B8-%EC%98%AC%EC%9D%B8%EC%9B%90-rookiss&quot;&gt;게임 프로그래머 입문 올인원&lt;/a&gt; by rookiss &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./course0&quot;&gt;0. OT 및 세팅&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./course1&quot;&gt;1. 프로그래밍 개론 및 변수와 정수&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;※ 강의 정보&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;h2 id=&quot;게임-프로그래머-입문-올인원-c--자료구조알고리즘--stl--게임-수학--windows-api--게임-서버&quot;&gt;&lt;a href=&quot;https://www.inflearn.com/course/%EA%B2%8C%EC%9E%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EC%B7%A8%EC%97%85#reviews&quot;&gt;[게임 프로그래머 입문 올인원] C++ &amp;amp; 자료구조/알고리즘 &amp;amp; STL &amp;amp; 게임 수학 &amp;amp; Windows API &amp;amp; 게임 서버&lt;/a&gt;&lt;/h2&gt;
@@ -343,7 +359,7 @@ int main()
       
 
       
-        <summary type="html">※ 강의 정보</summary>
+        <summary type="html">게임 프로그래머 입문 올인원 by rookiss 0. OT 및 세팅 1. 프로그래밍 개론 및 변수와 정수</summary>
       
 
       

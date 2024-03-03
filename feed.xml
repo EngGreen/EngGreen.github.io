@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://enggreen.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://enggreen.github.io/" rel="alternate" type="text/html" /><updated>2024-03-03T23:06:19+09:00</updated><id>https://enggreen.github.io/feed.xml</id><title type="html">개발일기</title><subtitle>Start from 0.</subtitle><entry><title type="html">『게임 프로그래머 입문 올인원』 1. 프로그래밍 개론 및 변수와 정수</title><link href="https://enggreen.github.io/course2" rel="alternate" type="text/html" title="『게임 프로그래머 입문 올인원』 1. 프로그래밍 개론 및 변수와 정수" /><published>2024-03-02T10:00:00+09:00</published><updated>2024-03-02T10:00:00+09:00</updated><id>https://enggreen.github.io/course2</id><content type="html" xml:base="https://enggreen.github.io/course2">&lt;h5 id=&quot;프로그래밍-개론&quot;&gt;프로그래밍 개론&lt;/h5&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://enggreen.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://enggreen.github.io/" rel="alternate" type="text/html" /><updated>2024-03-03T23:50:01+09:00</updated><id>https://enggreen.github.io/feed.xml</id><title type="html">개발일기</title><subtitle>Start from 0.</subtitle><entry><title type="html">『게임 프로그래머 입문 올인원』 1. 프로그래밍 개론 및 변수와 정수</title><link href="https://enggreen.github.io/course1" rel="alternate" type="text/html" title="『게임 프로그래머 입문 올인원』 1. 프로그래밍 개론 및 변수와 정수" /><published>2024-03-02T10:00:00+09:00</published><updated>2024-03-02T10:00:00+09:00</updated><id>https://enggreen.github.io/course1</id><content type="html" xml:base="https://enggreen.github.io/course1">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt; &lt;a href=&quot;https://www.inflearn.com/course/%EA%B2%8C%EC%9E%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EC%9E%85%EB%AC%B8-%EC%98%AC%EC%9D%B8%EC%9B%90-rookiss&quot;&gt;게임 프로그래머 입문 올인원&lt;/a&gt; by rookiss &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./course0&quot;&gt;0. OT 및 세팅&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./course1&quot;&gt;1. 프로그래밍 개론 및 변수와 정수&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;프로그래밍-개론&quot;&gt;프로그래밍 개론&lt;/h5&gt;
 
 &lt;h4 id=&quot;cpu-ram-ssd&quot;&gt;CPU, RAM, SSD&lt;/h4&gt;
 
@@ -200,7 +208,15 @@ int main()
     playSound = true;
 }
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;와 같이 사용한다.&lt;/p&gt;</content><author><name>EngGreen</name></author><category term="Course" /><summary type="html">프로그래밍 개론</summary></entry><entry><title type="html">『게임 프로그래머 입문 올인원』 0. OT 및 세팅</title><link href="https://enggreen.github.io/course1" rel="alternate" type="text/html" title="『게임 프로그래머 입문 올인원』 0. OT 및 세팅" /><published>2024-03-02T09:00:00+09:00</published><updated>2024-03-02T09:00:00+09:00</updated><id>https://enggreen.github.io/course1</id><content type="html" xml:base="https://enggreen.github.io/course1">&lt;p&gt;※ 강의 정보&lt;/p&gt;
+&lt;p&gt;와 같이 사용한다.&lt;/p&gt;</content><author><name>EngGreen</name></author><category term="Course" /><summary type="html">게임 프로그래머 입문 올인원 by rookiss 0. OT 및 세팅 1. 프로그래밍 개론 및 변수와 정수</summary></entry><entry><title type="html">『게임 프로그래머 입문 올인원』 0. OT 및 세팅</title><link href="https://enggreen.github.io/course0" rel="alternate" type="text/html" title="『게임 프로그래머 입문 올인원』 0. OT 및 세팅" /><published>2024-03-02T09:00:00+09:00</published><updated>2024-03-02T09:00:00+09:00</updated><id>https://enggreen.github.io/course0</id><content type="html" xml:base="https://enggreen.github.io/course0">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt; &lt;a href=&quot;https://www.inflearn.com/course/%EA%B2%8C%EC%9E%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EC%9E%85%EB%AC%B8-%EC%98%AC%EC%9D%B8%EC%9B%90-rookiss&quot;&gt;게임 프로그래머 입문 올인원&lt;/a&gt; by rookiss &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./course0&quot;&gt;0. OT 및 세팅&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./course1&quot;&gt;1. 프로그래밍 개론 및 변수와 정수&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;※ 강의 정보&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;h2 id=&quot;게임-프로그래머-입문-올인원-c--자료구조알고리즘--stl--게임-수학--windows-api--게임-서버&quot;&gt;&lt;a href=&quot;https://www.inflearn.com/course/%EA%B2%8C%EC%9E%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EC%B7%A8%EC%97%85#reviews&quot;&gt;[게임 프로그래머 입문 올인원] C++ &amp;amp; 자료구조/알고리즘 &amp;amp; STL &amp;amp; 게임 수학 &amp;amp; Windows API &amp;amp; 게임 서버&lt;/a&gt;&lt;/h2&gt;
@@ -249,7 +265,7 @@ int main()
 
 &lt;p&gt;Visual assist는 Visual studio를 사용하여 코딩할 때, 도움을 주는 편리한 애드온이다.
 1년에 $279정도의 가격으로 제공되며, 한 달 동안 무료버전으로 사용이 가능하다.
-대부분의 게임회사에서 프로그래머에게 구매해준다고 한다.&lt;/p&gt;</content><author><name>EngGreen</name></author><category term="Course" /><summary type="html">※ 강의 정보</summary></entry><entry><title type="html">게임 클라이언트 프로그래머에 대해.</title><link href="https://enggreen.github.io/diary1" rel="alternate" type="text/html" title="게임 클라이언트 프로그래머에 대해." /><published>2024-03-01T09:00:00+09:00</published><updated>2024-03-01T09:00:00+09:00</updated><id>https://enggreen.github.io/diary1</id><content type="html" xml:base="https://enggreen.github.io/diary1">&lt;p&gt;피치 못할 사정으로 일을 그만두게 된지 한 달이 지났다.&lt;/p&gt;
+대부분의 게임회사에서 프로그래머에게 구매해준다고 한다.&lt;/p&gt;</content><author><name>EngGreen</name></author><category term="Course" /><summary type="html">게임 프로그래머 입문 올인원 by rookiss 0. OT 및 세팅 1. 프로그래밍 개론 및 변수와 정수</summary></entry><entry><title type="html">게임 클라이언트 프로그래머에 대해.</title><link href="https://enggreen.github.io/diary1" rel="alternate" type="text/html" title="게임 클라이언트 프로그래머에 대해." /><published>2024-03-01T09:00:00+09:00</published><updated>2024-03-01T09:00:00+09:00</updated><id>https://enggreen.github.io/diary1</id><content type="html" xml:base="https://enggreen.github.io/diary1">&lt;p&gt;피치 못할 사정으로 일을 그만두게 된지 한 달이 지났다.&lt;/p&gt;
 
 &lt;p&gt;한 달 동안 그간 못 갔던 여행도 다니고 못 본 영화도 보고 푹 쉰 뒤, 오랜 꿈이였던 프로그래밍 공부를 시작해보고자 했다.&lt;/p&gt;
 
