@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-  <link href="https://enggreen.github.io/tag/gcp/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://enggreen.github.io/tag/diary/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://enggreen.github.io/" rel="alternate" type="text/html" />
-  <updated>2024-02-28T22:54:29+09:00</updated>
-  <id>https://enggreen.github.io/tag/gcp/feed.xml</id>
+  <updated>2024-03-03T23:06:19+09:00</updated>
+  <id>https://enggreen.github.io/tag/diary/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">게임 클라이언트 프로그래머에 대해.</title>
-      <link href="https://enggreen.github.io/GCP" rel="alternate" type="text/html" title="게임 클라이언트 프로그래머에 대해." />
-      <published>2024-02-27T09:00:00+09:00</published>
-      <updated>2024-02-27T09:00:00+09:00</updated>
-      <id>https://enggreen.github.io/GCP</id>
-      <content type="html" xml:base="https://enggreen.github.io/GCP">&lt;p&gt;피치 못할 사정으로 일을 그만두게 된지 한 달이 지났다.&lt;/p&gt;
+      <link href="https://enggreen.github.io/diary1" rel="alternate" type="text/html" title="게임 클라이언트 프로그래머에 대해." />
+      <published>2024-03-01T09:00:00+09:00</published>
+      <updated>2024-03-01T09:00:00+09:00</updated>
+      <id>https://enggreen.github.io/diary1</id>
+      <content type="html" xml:base="https://enggreen.github.io/diary1">&lt;p&gt;피치 못할 사정으로 일을 그만두게 된지 한 달이 지났다.&lt;/p&gt;
 
 &lt;p&gt;한 달 동안 그간 못 갔던 여행도 다니고 못 본 영화도 보고 푹 쉰 뒤, 오랜 꿈이였던 프로그래밍 공부를 시작해보고자 했다.&lt;/p&gt;
 
@@ -287,7 +287,7 @@
       
 
       
-        <category term="GCP" />
+        <category term="Diary" />
       
 
       
