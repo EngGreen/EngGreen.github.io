@@ -4,7 +4,39 @@
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>https://EngGreen.github.io/course1.html</loc>
+        <loc>https://EngGreen.github.io/course1.3.html</loc>
+        
+        <lastmod>2024-03-05T10:00:00+09:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>https://EngGreen.github.io/course1.2.html</loc>
+        
+        <lastmod>2024-03-05T09:00:00+09:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>https://EngGreen.github.io/course1.1.html</loc>
         
         <lastmod>2024-03-02T10:00:00+09:00</lastmod>
         

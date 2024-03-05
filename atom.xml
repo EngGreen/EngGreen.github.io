@@ -8,20 +8,64 @@
     
       
       <item>
-        <title>『게임 프로그래머 입문 올인원』 1. 프로그래밍 개론 및 변수와 정수</title>
+        <title>『게임 프로그래머 입문 올인원』 1-3. 분기문 및 반복문</title>
         
           <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt; &lt;a href=&quot;https://www.inflearn.com/course/%EA%B2%8C%EC%9E%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EC%9E%85%EB%AC%B8-%EC%98%AC%EC%9D%B8%EC%9B%90-rookiss&quot;&gt;게임 프로그래머 입문 올인원&lt;/a&gt; by rookiss &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
     &lt;li&gt;&lt;a href=&quot;./course0&quot;&gt;0. OT 및 세팅&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./course1&quot;&gt;1. 프로그래밍 개론 및 변수와 정수&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./course1.1&quot;&gt;1-1. 프로그래밍 개론 및 변수와 정수&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./course1.2&quot;&gt;1-2. 산술 연산, 비교 연산과 논리 연산&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./course1.3&quot;&gt;1-3. 분기문 및 반복문&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Tue, 05 Mar 2024 10:00:00 +0900</pubDate>
+        <link>
+        https://EngGreen.github.io/course1.3</link>
+        <guid isPermaLink="true">https://EngGreen.github.io/course1.3</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>『게임 프로그래머 입문 올인원』 1-2. 산술 연산, 비교 연산과 논리 연산</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt; &lt;a href=&quot;https://www.inflearn.com/course/%EA%B2%8C%EC%9E%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EC%9E%85%EB%AC%B8-%EC%98%AC%EC%9D%B8%EC%9B%90-rookiss&quot;&gt;게임 프로그래머 입문 올인원&lt;/a&gt; by rookiss &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./course0&quot;&gt;0. OT 및 세팅&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./course1.1&quot;&gt;1-1. 프로그래밍 개론 및 변수와 정수&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./course1.2&quot;&gt;1-2. 산술 연산, 비교 연산과 논리 연산&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./course1.3&quot;&gt;1-3. 분기문 및 반복문&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Tue, 05 Mar 2024 09:00:00 +0900</pubDate>
+        <link>
+        https://EngGreen.github.io/course1.2</link>
+        <guid isPermaLink="true">https://EngGreen.github.io/course1.2</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>『게임 프로그래머 입문 올인원』 1-1. 프로그래밍 개론 및 변수와 정수</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt; &lt;a href=&quot;https://www.inflearn.com/course/%EA%B2%8C%EC%9E%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EC%9E%85%EB%AC%B8-%EC%98%AC%EC%9D%B8%EC%9B%90-rookiss&quot;&gt;게임 프로그래머 입문 올인원&lt;/a&gt; by rookiss &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./course0&quot;&gt;0. OT 및 세팅&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./course1.1&quot;&gt;1-1. 프로그래밍 개론 및 변수와 정수&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./course1.2&quot;&gt;1-2. 산술 연산, 비교 연산과 논리 연산&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./course1.3&quot;&gt;1-3. 분기문 및 반복문&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
         
         <pubDate>Sat, 02 Mar 2024 10:00:00 +0900</pubDate>
         <link>
-        https://EngGreen.github.io/course1</link>
-        <guid isPermaLink="true">https://EngGreen.github.io/course1</guid>
+        https://EngGreen.github.io/course1.1</link>
+        <guid isPermaLink="true">https://EngGreen.github.io/course1.1</guid>
       </item>
       
     
@@ -32,7 +76,9 @@
           <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt; &lt;a href=&quot;https://www.inflearn.com/course/%EA%B2%8C%EC%9E%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EC%9E%85%EB%AC%B8-%EC%98%AC%EC%9D%B8%EC%9B%90-rookiss&quot;&gt;게임 프로그래머 입문 올인원&lt;/a&gt; by rookiss &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
     &lt;li&gt;&lt;a href=&quot;./course0&quot;&gt;0. OT 및 세팅&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./course1&quot;&gt;1. 프로그래밍 개론 및 변수와 정수&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./course1.1&quot;&gt;1-1. 프로그래밍 개론 및 변수와 정수&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./course1.2&quot;&gt;1-2. 산술 연산, 비교 연산과 논리 연산&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./course1.3&quot;&gt;1-3. 분기문 및 반복문&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
